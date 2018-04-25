@@ -4,7 +4,8 @@
 // @import "node_modules/bootstrap-sass/assets/stylesheets/_bootstrap"
 
 @import "_variables";
-@import "bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_theme.scss";
+//@import "bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_theme.scss";
+@import "bower_components/bootstrap-sass/assets/stylesheets/_bootstrap-sprockets.scss";
 @import "bower_components/bootstrap-sass/assets/stylesheets/_bootstrap.scss";
 
 //@import "bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_bootstrap";
